@@ -2,9 +2,11 @@
 
 Created few below things
 1. VPC
-2. route table
-3. security groups
-4. subnets
-5. route association with subnet
-6. create key-pair
-7. create EC2 using these things
+2. VPC route
+3. route table
+4. security groups
+5. subnets
+6. internet Gateway
+7. route association with subnet
+8. create key-pair
+9. create EC2 using these things
